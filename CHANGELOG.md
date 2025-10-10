@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.1.0-dev.2](https://github.com/mathat13/semantic-versioning-example/compare/v1.1.0-dev.1...v1.1.0-dev.2) (2025-10-10)
+
+
+### Bug Fixes
+
+* First fix commit to dev branch after merge to main branch, incrementing version to 1.1.1-dev.1 ([fbbc77f](https://github.com/mathat13/semantic-versioning-example/commit/fbbc77fca8f46dafba73f7d45f27dedf86c15a9e))
+
 # [1.1.0-dev.1](https://github.com/mathat13/semantic-versioning-example/compare/v1.0.1-dev.1...v1.1.0-dev.1) (2025-10-10)
 
 
